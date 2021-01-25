@@ -85,7 +85,7 @@ worldwide and US data
 The package also incorporates a dashboard to facilitate the access to its
 functionalities to less experienced users (see \autoref{fig:dashboard}).
 
-![Screenshot of a `covid19.analytics` dashboard implementation -- the dashboard can be used through a web-interface or deployed locally in the users' machine.\label{fig:dashboard}](figures/dashboard-mosaic.png)
+![Screenshot of a `covid19.analytics` dashboard implementation -- the dashboard can be used through a web-interface or deployed locally in the users' machine.\label{fig:dashboard}](dashboard-mosaic.png)
 
 
 As today, there are a few dozen other packages also in the CRAN repository that
