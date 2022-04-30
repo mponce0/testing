@@ -7,4 +7,4 @@
 
 
 ## MD style
-("dashboard-mosaic.png")
+[!](dashboard-mosaic.png)
