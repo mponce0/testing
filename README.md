@@ -6,10 +6,18 @@
 </p>
 
 
-## MD style
+## MD style::
+png
 ![](dashboard-mosaic.png)
+png w/rel.path
+![](figs/gw_corrs.png)
 
+pdf
 ![](covid19-data-sources.pdf)
+pdf w/rel.path
+![](figs/gr-changes_Italy.pdf)
+
+## object data::
 
 <object data="covid19-data-sources.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="covid19-data-sources.pdf">
