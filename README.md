@@ -10,3 +10,9 @@
 ![](dashboard-mosaic.png)
 
 ![](covid19-data-sources.pdf)
+
+<object data="covid19-data-sources.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="covid19-data-sources.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="covid19-data-sources.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
