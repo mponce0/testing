@@ -8,3 +8,5 @@
 
 ## MD style
 ![](dashboard-mosaic.png)
+
+![](covid19-data-sources.pdf)
