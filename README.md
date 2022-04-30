@@ -7,4 +7,4 @@
 
 
 ## MD style
-("dashboard.png")
+("dashboard-mosaic.png")
