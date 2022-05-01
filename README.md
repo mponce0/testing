@@ -15,10 +15,10 @@
 
 ## MD style::
 png
-`![](dashboard-mosaic.png)`
+``![](dashboard-mosaic.png)``
 ![](dashboard-mosaic.png)
 png w/rel.path
-`![](web-rendering/figs/gw_corrs.png)`
+``![](web-rendering/figs/gw_corrs.png)``
 ![](web-rendering/figs/gw_corrs.png)
 
 pdf
