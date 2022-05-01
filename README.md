@@ -1,13 +1,13 @@
 
 ## IMG SRC::
 
-``
+```
 <p aling="center">
  <img src="https://phil.cdc.gov//PHIL_Images/2871/2871_lores.jpg" width="75%">
  <br>
  <a href="https://phil.cdc.gov/Details.aspx?pid=2871" target="_blank">Source-Credit: CDC/ Alissa Eckert, MS; Dan Higgins, MAMS</a>
 </p>
-``
+```
 
 <p aling="center">
  <img src="https://phil.cdc.gov//PHIL_Images/2871/2871_lores.jpg" width="75%">
@@ -21,21 +21,21 @@
 
 ## MD style::
 png
-``![](dashboard-mosaic.png)``
+```![](dashboard-mosaic.png)```
 ![](dashboard-mosaic.png)
 
 png w/rel.path
-``![](web-rendering/figs/gw_corrs.png)``
+```![](web-rendering/figs/gw_corrs.png)```
 ![](web-rendering/figs/gw_corrs.png)
 
 
 
 pdf
-`![](covid19-data-sources.pdf)`
+```![](covid19-data-sources.pdf)```
 ![](covid19-data-sources.pdf)
 
 pdf w/rel.path
-`![](web-rendering/figs/gr-changes_Italy.pdf)`
+```![](web-rendering/figs/gr-changes_Italy.pdf)```
 ![](web-rendering/figs/gr-changes_Italy.pdf)
 
 
@@ -55,7 +55,16 @@ pdf w/rel.path
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="covid19-data-sources.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-///
+
+
+# w/rel.path:
+```
+<object data="web-rendering/figs/gr-changes_Italy.pdf " type="application/pdf" width="700px" height="700px">
+    <embed src="web-rendering/figs/gr-changes_Italy.pdf ">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="covid19-data-sources.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+```
 <object data="web-rendering/figs/gr-changes_Italy.pdf " type="application/pdf" width="700px" height="700px">
     <embed src="web-rendering/figs/gr-changes_Italy.pdf ">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="covid19-data-sources.pdf">Download PDF</a>.</p>
