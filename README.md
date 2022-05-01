@@ -1,4 +1,4 @@
-
+<details>
 ## IMG SRC::
 
 ```
@@ -87,3 +87,4 @@ pdf w/rel.path
 </object>
 
 --
+</details>
