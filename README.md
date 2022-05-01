@@ -21,21 +21,22 @@
 
 ## MD style::
 png
-```![](dashboard-mosaic.png)```
+`![](dashboard-mosaic.png)`
 ![](dashboard-mosaic.png)
 
+
 png w/rel.path
-```![](web-rendering/figs/gw_corrs.png)```
+`![](web-rendering/figs/gw_corrs.png)`
 ![](web-rendering/figs/gw_corrs.png)
 
 
 
 pdf
-```![](covid19-data-sources.pdf)```
+`![](covid19-data-sources.pdf)`
 ![](covid19-data-sources.pdf)
 
 pdf w/rel.path
-```![](web-rendering/figs/gr-changes_Italy.pdf)```
+`![](web-rendering/figs/gr-changes_Italy.pdf)`
 ![](web-rendering/figs/gr-changes_Italy.pdf)
 
 
