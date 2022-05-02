@@ -1,4 +1,4 @@
-<a label="Images"><details></a>
+<details>
 ## IMG SRC::
 
 ```
