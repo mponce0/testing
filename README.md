@@ -90,7 +90,11 @@ pdf w/rel.path
 </details>
 
 
-https://raw.githubusercontent.com/mponce0/testing/master/web-rendering/figs/output.mp4
+
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/mponce0/testing/master/web-rendering/figs/output.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 https://github.com/user-attachments/assets/ed18a694-8709-4c7f-8985-1aa9f509ad4f
