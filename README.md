@@ -90,6 +90,7 @@ pdf w/rel.path
 </details>
 
 
+(web-rendering/figs/output.mp4)
 
 
 https://github.com/user-attachments/assets/ed18a694-8709-4c7f-8985-1aa9f509ad4f
